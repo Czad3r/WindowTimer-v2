@@ -1,0 +1,39 @@
+C:\Users\dell\Desktop\Chart Control In WPF\Chart Control In WPF\bin\Debug\Chart Control In WPF.exe
+C:\Users\dell\Desktop\Chart Control In WPF\Chart Control In WPF\bin\Debug\Chart Control In WPF.pdb
+C:\Users\dell\Desktop\Chart Control In WPF\Chart Control In WPF\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\dell\Desktop\Chart Control In WPF\Chart Control In WPF\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\dell\Desktop\Chart Control In WPF\Chart Control In WPF\bin\Debug\WPFToolkit.Design.dll
+C:\Users\dell\Desktop\Chart Control In WPF\Chart Control In WPF\bin\Debug\WPFToolkit.dll
+C:\Users\dell\Desktop\Chart Control In WPF\Chart Control In WPF\bin\Debug\WPFToolkit.Design.pdb
+C:\Users\dell\Desktop\Chart Control In WPF\Chart Control In WPF\bin\Debug\WPFToolkit.pdb
+C:\Users\dell\Desktop\Chart Control In WPF\Chart Control In WPF\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\dell\Desktop\Chart Control In WPF\Chart Control In WPF\bin\Debug\System.Windows.Controls.Layout.Toolkit.pdb
+C:\Users\dell\Desktop\Chart Control In WPF\Chart Control In WPF\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dell\Desktop\Chart Control In WPF\Chart Control In WPF\obj\Debug\Window1.baml
+C:\Users\dell\Desktop\Chart Control In WPF\Chart Control In WPF\obj\Debug\Window1.g.cs
+C:\Users\dell\Desktop\Chart Control In WPF\Chart Control In WPF\obj\Debug\App.g.cs
+C:\Users\dell\Desktop\Chart Control In WPF\Chart Control In WPF\obj\Debug\Chart Control In WPF_MarkupCompile.cache
+C:\Users\dell\Desktop\Chart Control In WPF\Chart Control In WPF\obj\Debug\Chart Control In WPF.g.resources
+C:\Users\dell\Desktop\Chart Control In WPF\Chart Control In WPF\obj\Debug\Chart_Control_In_WPF.Properties.Resources.resources
+C:\Users\dell\Desktop\Chart Control In WPF\Chart Control In WPF\obj\Debug\Chart Control In WPF.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\Chart Control In WPF\Chart Control In WPF\obj\Debug\Chart Control In WPF.exe
+C:\Users\dell\Desktop\Chart Control In WPF\Chart Control In WPF\obj\Debug\Chart Control In WPF.pdb
+C:\Users\Czad3r\Downloads\Chart Control In WPF\Chart Control In WPF\bin\Debug\Chart Control In WPF.exe
+C:\Users\Czad3r\Downloads\Chart Control In WPF\Chart Control In WPF\bin\Debug\Chart Control In WPF.pdb
+C:\Users\Czad3r\Downloads\Chart Control In WPF\Chart Control In WPF\obj\Debug\Chart Control In WPF.csprojAssemblyReference.cache
+C:\Users\Czad3r\Downloads\Chart Control In WPF\Chart Control In WPF\obj\Debug\Window1.baml
+C:\Users\Czad3r\Downloads\Chart Control In WPF\Chart Control In WPF\obj\Debug\Window1.g.cs
+C:\Users\Czad3r\Downloads\Chart Control In WPF\Chart Control In WPF\obj\Debug\App.g.cs
+C:\Users\Czad3r\Downloads\Chart Control In WPF\Chart Control In WPF\obj\Debug\Chart Control In WPF_MarkupCompile.cache
+C:\Users\Czad3r\Downloads\Chart Control In WPF\Chart Control In WPF\obj\Debug\Chart Control In WPF.g.resources
+C:\Users\Czad3r\Downloads\Chart Control In WPF\Chart Control In WPF\obj\Debug\Chart_Control_In_WPF.Properties.Resources.resources
+C:\Users\Czad3r\Downloads\Chart Control In WPF\Chart Control In WPF\obj\Debug\Chart Control In WPF.csproj.GenerateResource.cache
+C:\Users\Czad3r\Downloads\Chart Control In WPF\Chart Control In WPF\obj\Debug\Chart Control In WPF.csproj.CoreCompileInputs.cache
+C:\Users\Czad3r\Downloads\Chart Control In WPF\Chart Control In WPF\obj\Debug\Chart Control In WPF.csproj.CopyComplete
+C:\Users\Czad3r\Downloads\Chart Control In WPF\Chart Control In WPF\obj\Debug\Chart Control In WPF.exe
+C:\Users\Czad3r\Downloads\Chart Control In WPF\Chart Control In WPF\obj\Debug\Chart Control In WPF.pdb
+C:\Users\Czad3r\Downloads\Chart Control In WPF\Chart Control In WPF\bin\Debug\Chart Control In WPF.exe.config
+C:\Users\Czad3r\Downloads\Chart Control In WPF\Chart Control In WPF\bin\Debug\WPFToolkit.dll
+C:\Users\Czad3r\Downloads\Chart Control In WPF\Chart Control In WPF\bin\Debug\WPFToolkit.pdb
+C:\Users\Czad3r\Downloads\Chart Control In WPF\Chart Control In WPF\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\Czad3r\Downloads\Chart Control In WPF\Chart Control In WPF\bin\Debug\System.Windows.Controls.Layout.Toolkit.pdb

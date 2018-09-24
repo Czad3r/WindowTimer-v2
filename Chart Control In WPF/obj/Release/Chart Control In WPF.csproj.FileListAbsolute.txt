@@ -1,0 +1,21 @@
+C:\Users\Czad3r\Downloads\Chart Control In WPF\Chart Control In WPF\bin\Release\Chart Control In WPF.exe.config
+C:\Users\Czad3r\Downloads\Chart Control In WPF\Chart Control In WPF\bin\Release\Chart Control In WPF.exe
+C:\Users\Czad3r\Downloads\Chart Control In WPF\Chart Control In WPF\bin\Release\Chart Control In WPF.pdb
+C:\Users\Czad3r\Downloads\Chart Control In WPF\Chart Control In WPF\bin\Release\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\Czad3r\Downloads\Chart Control In WPF\Chart Control In WPF\bin\Release\WPFToolkit.Design.dll
+C:\Users\Czad3r\Downloads\Chart Control In WPF\Chart Control In WPF\bin\Release\WPFToolkit.dll
+C:\Users\Czad3r\Downloads\Chart Control In WPF\Chart Control In WPF\bin\Release\WPFToolkit.pdb
+C:\Users\Czad3r\Downloads\Chart Control In WPF\Chart Control In WPF\obj\Release\Chart Control In WPF.csprojAssemblyReference.cache
+C:\Users\Czad3r\Downloads\Chart Control In WPF\Chart Control In WPF\obj\Release\Window1.baml
+C:\Users\Czad3r\Downloads\Chart Control In WPF\Chart Control In WPF\obj\Release\Window1.g.cs
+C:\Users\Czad3r\Downloads\Chart Control In WPF\Chart Control In WPF\obj\Release\App.g.cs
+C:\Users\Czad3r\Downloads\Chart Control In WPF\Chart Control In WPF\obj\Release\Chart Control In WPF_MarkupCompile.cache
+C:\Users\Czad3r\Downloads\Chart Control In WPF\Chart Control In WPF\obj\Release\Chart Control In WPF.g.resources
+C:\Users\Czad3r\Downloads\Chart Control In WPF\Chart Control In WPF\obj\Release\Chart_Control_In_WPF.Properties.Resources.resources
+C:\Users\Czad3r\Downloads\Chart Control In WPF\Chart Control In WPF\obj\Release\Chart Control In WPF.csproj.GenerateResource.cache
+C:\Users\Czad3r\Downloads\Chart Control In WPF\Chart Control In WPF\obj\Release\Chart Control In WPF.csproj.CoreCompileInputs.cache
+C:\Users\Czad3r\Downloads\Chart Control In WPF\Chart Control In WPF\obj\Release\Chart Control In WPF.csproj.CopyComplete
+C:\Users\Czad3r\Downloads\Chart Control In WPF\Chart Control In WPF\obj\Release\Chart Control In WPF.exe
+C:\Users\Czad3r\Downloads\Chart Control In WPF\Chart Control In WPF\obj\Release\Chart Control In WPF.pdb
+C:\Users\Czad3r\Downloads\Chart Control In WPF\Chart Control In WPF\bin\Release\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\Czad3r\Downloads\Chart Control In WPF\Chart Control In WPF\bin\Release\System.Windows.Controls.Layout.Toolkit.pdb
